@@ -1,0 +1,20 @@
+[
+    {
+        "travelStartDate": "DATE 2/0/0",
+        "travelEndDate": "DATE 6/0/0",
+        "visitorId": "UVID=55e0423d-e2ef-486d-88b4-b0532aca55d6",
+        "numberOfPeopleToBeInsured": "2",
+        "numberOfInsuredPeopleAgedBelowFive": "1",
+        "bookingDate": "DATE 0/0/0",
+        "tripExpense": "1000",
+        "accountNumber": "218100035",
+        "cardNumber": "081",
+        "detailsPageHeader": "Your details",
+        "travellerInitials": "A.D.D",
+        "travellerSurname": "Das",
+        "travellerDateOfBirth": "DATE 1/0/-3",
+        "overviewPageHeader": "Your overview",
+        "requestConfirmationMessage": "Your request was successful!"
+        
+    }
+]

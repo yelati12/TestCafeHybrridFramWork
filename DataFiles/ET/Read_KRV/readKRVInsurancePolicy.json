@@ -1,0 +1,24 @@
+[
+    {
+        "accountNumber": "218100035",
+        "cardNumber": "081",
+        "agreementId": "60029872",
+        "policyHolder": "D.O. Qwzsvud col Pcmgv",
+        "travelDates": "From 16 October 2020 through to 20 October 2020",
+        "firstInsuredPerson": "D.O. Qwzsvud col Pcmgv",
+        "firstInsuredPersonDOB": "1 January 1932",
+        "secondInsuredPerson": "A.D.D Das",
+        "secondInsuredPersonDOB": "15 October 2017",
+        "coverValue": "Standard cover",
+        "coverArea": "Europe",
+        "oneOffPremium": "€62.65",
+        "policyDisclaimer": "View your policy to see what's included in your premium.",
+        "policyPDFLink": "blob:https://www-et1.abnamro.nl/e054cd3f-a008-4d23-8911-0ac582e94998",
+        "submitClaimPageURL": "https://www-et1.abnamro.nl/portalserver/my-abnamro/insurance/travel-insurances/report_damage.html",
+        "reportDamagePageHeader": "Online claim submission",
+        "productOverviewPageLink": "https://www-et1.abnamro.nl/portal/my-abnamro/self-service/overview/index.html",
+        "selfServicePageHeader": "Self service",
+        "cancelInsurancePageLink": "https://www-et1.abnamro.nl/en/personal/insurance/cancelling-your-insurance/index.html"
+        
+    }
+]
